@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/tuncagurkan/jenkins-demo-node-app/issues"
   },
-  "homepage": "https://github.com/tuncagurkan/jenkins-demo-node-app#readme"
+  "homepage": "https://github.com/tuncagurkan/jenkins-demo-node-app#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
